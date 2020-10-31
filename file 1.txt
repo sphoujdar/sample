@@ -1,2 +1,2 @@
 New text file with first commit line on main branch.
-
+New text for second commit.
